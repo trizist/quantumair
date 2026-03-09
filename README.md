@@ -52,7 +52,7 @@ quantumair/
 
 If you use Quantum Air in your research, please cite it as follows:
 
-> Siddiquie, U. (2026). *Quantum Air: A Cognitive Architecture for Balanced AI* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.YOUR_DOI_HERE
+> Siddiquie, U. (2026). *Quantum Air: A Cognitive Architecture for Balanced AI* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.18928323
 
 **BibTeX:**
 ```bibtex
